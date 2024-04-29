@@ -1,0 +1,17 @@
+[
+    {
+      "model": "Toyota Camry",
+      "image": "https://www.buyatoyota.com/assets/img/vehicle-info/Camry_Hybrid/2022/hero_image_camryhybrid.png",
+      "description": "A reliable sedan with great fuel efficiency.It has always been reliable, and stylish",
+      "price": "$25,000",
+      "year": "2022"
+    },
+    {
+      "model": "Honda Civic",
+      "image": "https://preview.free3d.com/img/2020/05/2399391654097192191/ljnguory.jpg",
+      "description": "Compact car known for its durability and affordability.",
+      "price": "$20,000",
+      "year": "2021"
+    }
+  ]
+  
