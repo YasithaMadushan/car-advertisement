@@ -5,7 +5,7 @@ import carsData from '../cars.json';
 function HomePage() {
   return (
     <div className="container">
-        <h1>Cars</h1>
+        <h1>Ads</h1>
         <div className="row">
             {carsData.map((car, index) => (
                 <div className="col-md-4 mb-4" key={index}>
